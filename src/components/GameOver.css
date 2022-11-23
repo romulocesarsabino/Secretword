@@ -1,0 +1,9 @@
+h2 span {
+    color: #ecfa00;
+    font-size: 1.5em;
+  }
+
+.gameover {
+  padding-top: 250px;
+  font-size: 2em;
+}
