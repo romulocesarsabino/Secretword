@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Secretword/static/css/main.9edd4206.css",
+    "main.js": "/Secretword/static/js/main.606bdcf9.js",
+    "static/js/787.c74d0e55.chunk.js": "/Secretword/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/Secretword/index.html",
+    "main.9edd4206.css.map": "/Secretword/static/css/main.9edd4206.css.map",
+    "main.606bdcf9.js.map": "/Secretword/static/js/main.606bdcf9.js.map",
+    "787.c74d0e55.chunk.js.map": "/Secretword/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9edd4206.css",
+    "static/js/main.606bdcf9.js"
+  ]
+}
